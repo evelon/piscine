@@ -1,0 +1,2 @@
+GET http://127.0.0.1/pass HTTP/1.1
+Cookie: name=special_cookie; value=42

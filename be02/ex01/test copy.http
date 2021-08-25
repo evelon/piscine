@@ -1,0 +1,8 @@
+GET http://127.0.0.1/pass HTTP/1.1
+Cookie: jwt_cookie=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvbGltIiwiaWF0IjoxNjI5NDc1MTEyLCJleHAiOjE2Mjk0NzUxNzJ9.hzpU_tDGxJMM80KoymlJYs-5fdBZrbVXHTZLJOazPPA
+Content-Type: application/json
+Content-Length: 26
+
+{
+  "username": "jolim"
+}
